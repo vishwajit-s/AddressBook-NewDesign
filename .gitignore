@@ -4,10 +4,10 @@ a.out
 *.o
 *.gch
 
-# Windows metadata files
-*:Zone.Identifier
+# Windows metadata
+*.Zone.Identifier
 
-# data files (optional, keep if needed)
-contacts.txt
+# data files (optional ignore)
 contact.csv
+contacts.txt
 
