@@ -1,0 +1,13 @@
+# compiled files
+a.out
+*.out
+*.o
+*.gch
+
+# Windows metadata files
+*:Zone.Identifier
+
+# data files (optional, keep if needed)
+contacts.txt
+contact.csv
+
